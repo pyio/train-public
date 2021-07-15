@@ -1,3 +1,4 @@
 # train-public
-* Proposal Alpha
+* Proposal Alpha & Beta
 alpha alpha
+beta beta beta
